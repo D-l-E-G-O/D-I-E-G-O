@@ -3,6 +3,7 @@
 Bonjour et bienvenue sur mon profil GitHub !
 Je suis Diego Aparicio, développeur passionné par le développement de jeux et d'applications.
 
+
 🧬 Langages
 
 - C / C++
@@ -14,6 +15,7 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 - GDScript / Godot
 
 - Java
+
 
 🖥️ Domaines
 
