@@ -10,11 +10,11 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![MIPS32](https://img.shields.io/badge/-MIPS-FF6C00?style=flat&logoColor=white)
+![MIPS](https://img.shields.io/badge/-MIPS-FF6C00?style=flat&logoColor=white)
 
 **Stats GitHub**
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=D-l-E-G-O&show_icons=true&theme=radical) <br><br>
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=D-l-E-G-O&show_icons=true&theme=radical) <br>
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=D-l-E-G-O&layout=compact&theme=radical)
 
 **Domaines**
