@@ -1,10 +1,10 @@
-**🧑‍💻 À propos de moi**
+**À propos de moi**
 
 Bonjour et bienvenue sur mon profil GitHub !
 Je suis Diego Aparicio, développeur passionné par le développement de jeux et d'applications.
 
 
-🧬 Langages
+Langages
 
 - C / C++
 
@@ -17,7 +17,7 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 - Java
 
 
-🖥️ Domaines
+Domaines
 
 - Développement bas-niveau
 
