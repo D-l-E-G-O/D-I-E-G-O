@@ -1,3 +1,5 @@
+[🇫🇷 Français](./README.md) | [🇬🇧 English](./README.en.md)
+
 **À propos de moi**
 
 Bonjour et bienvenue sur mon profil GitHub !
