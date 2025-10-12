@@ -13,32 +13,32 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 
 **Langages**
 
-![C](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png)
-![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
-![C#](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png)
-![Java](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png)
-![GDScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png)
-![MIPS](https://img.shields.io/badge/-MIPS-FF6C00?style=flat&logoColor=white)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="GDScript" width="40"/>
+<img src="https://img.shields.io/badge/-MIPS-FF6C00?style=flat&logoColor=white" alt="MIPS" width="40"/>
 
 **Bases de données**
 
-![Oracle](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png)
-![SQLite](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" width="40"/>
 
 
 **Web**
 
-![HTML](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png)
-![CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)
-![JavaScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png)
-![PHP](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" width="40"/>
 
 
 **Outils**
 
-![Visual Studio Code](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
-![IntelliJ](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png)
-![Vim](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" width="40"/>
 
 
 **Domaines**
