@@ -16,7 +16,6 @@ I’m Diego Aparicio, a passionate developer focused on creating games and appli
 
 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-l-E-G-O&show_icons=true&theme=radical) <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-l-E-G-O&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
 **Fields of Expertise**
