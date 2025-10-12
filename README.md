@@ -20,12 +20,15 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/>
 </div>
+<br>
 
 **Bases de données**
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" width="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" width="40"/>
-
+<div>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
+</div>
+<br>
 
 **Web**
 
@@ -35,6 +38,7 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/>
 </div>
+<br>
 
 
 **Outils**
@@ -44,6 +48,7 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/>
 </div>
+<br>
 
 
 **Domaines**
