@@ -16,7 +16,7 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 
 **Stats GitHub**
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=D-l-E-G-O&layout=compact&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=D-l-E-G-O&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
 **Domaines**
 
